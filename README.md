@@ -111,8 +111,7 @@ problems.
 # 📫 Connect With Me
 
 -   💼 LinkedIn: https://www.linkedin.com/in/anand-lilhare-696a2965
--   📧 Email: anandlilhare69@gmail.com
-
+-   📧 Email: lilhareanand22@gmail.com
 ------------------------------------------------------------------------
 
 ⭐ **Always open to collaborating on Android, Kotlin, and AI-powered
